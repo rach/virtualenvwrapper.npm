@@ -6,7 +6,7 @@ setup(
     name='virtualenvwrapper.npm',
     version='0.1',
     description='Plugin for virtualenvwrapper to automatically '
-                'encapsulate inside the virtual environment'
+                'encapsulate inside the virtual environment '
                 'any npm installed globaly when the venv is activated',
     author='Rach Belaid',
     author_email='dev@ironbraces.com',
