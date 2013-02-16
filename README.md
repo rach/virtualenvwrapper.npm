@@ -2,7 +2,7 @@
 
 ###Install 
 
-    pip install virtualenvwraper.npm
+    pip install virtualenvwrapper.npm
 
 ###How it works
 
