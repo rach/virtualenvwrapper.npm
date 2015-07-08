@@ -14,6 +14,6 @@ Inside the virtual env, the config is setup to install the package as global mod
 
     mkvirtualenv test
     workon test #if not already inside
-	npm install less
-	which lessc #> $VIRTUAL_ENV/bin/lessc
+    npm install -g gulp
+    which gulp #> $VIRTUAL_ENV/bin/gulp
 
