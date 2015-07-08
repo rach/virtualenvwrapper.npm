@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='virtualenvwrapper.npm',
-    version='0.1',
+    version='0.2',
     description='Plugin for virtualenvwrapper to automatically '
                 'encapsulate inside the virtual environment '
                 'any npm installed globaly when the venv is activated',
