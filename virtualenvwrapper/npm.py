@@ -10,7 +10,6 @@ def post_activate_source(args):
 #patch to wrap npm inside the virtual env
 export _old_npm_config_prefix="$npm_config_prefix"
 export npm_config_prefix="$VIRTUAL_ENV"
-export npm_config_global="true"
 #no need to add anything to the path it will respect $VIRTUAL_ENV/bin
 
 """
